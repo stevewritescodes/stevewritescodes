@@ -7,9 +7,8 @@ I am a motivated and aspiring data analyst with a strong interest in leveraging 
 ## Projects
 Although I am just starting out, here are some projects I have worked on:
 
-- [Project 1](link)
-- [Project 2](link)
-- [Project 3](link)
+- [Project 1](https://github.com/stevewritescodes/byb_project)
+
 
 ## Skills
 - Data Analysis: Basic understanding of data analysis techniques and tools.
