@@ -8,6 +8,8 @@ I am a motivated and aspiring data analyst with a strong interest in leveraging 
 Although I am just starting out, here are some projects I have worked on:
 
 - [Project 1](https://github.com/stevewritescodes/byb_project)
+- [Project 2](https://github.com/stevewritescodes/stevewritescodes)
+- 
 
 
 ## Skills
